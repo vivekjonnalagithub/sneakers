@@ -328,7 +328,7 @@ img {
 
 .swiper-button-prev{
   background-color: var(--black-color);
-  color: var(--white-color);
+  color: var(--black-color);
 }
 
 .swiper-button-next{
